@@ -1,0 +1,32 @@
+{
+  "name": "structure_of_nodejs_backend",
+  "version": "1.0.0",
+  "description": "nodejs_backend",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodonotdo/structure_of_nodejs_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodonotdo/structure_of_nodejs_backend/issues"
+  },
+  "homepage": "https://github.com/dodonotdo/structure_of_nodejs_backend#readme"
+}

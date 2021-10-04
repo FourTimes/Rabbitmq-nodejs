@@ -1,4 +1,4 @@
-# rabbitmq-nodejs
+# Rabbitmq-nodejs
 
 <!-- https://softchris.github.io/pages/joi.html#building-a-middleware -->
 <!-- https://github.com/rabbitmq/rabbitmq-tutorials -->

@@ -18,7 +18,3 @@ auth
   .catch((err) => console.error("Unable to connect to the database:", err));
 
 module.exports = sequelize;
-
-// ywuasnaxqaot6hyiz5bx6uk2yg6sqkt2qgbnjcj57vxra3otjxeq
-
-// montfort.thomas@htcindia.com
